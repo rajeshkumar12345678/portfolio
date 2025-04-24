@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+   "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://mrsiburaj.netlify.app/",
+      "code": "https://github.com/Mrsiburaj/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Tour-Project",
+    "desc": "To create the front end part of the website and for storing the Contact Information in the Database we used php as a backend language.",
+    "image": "travelstate",
+    "category": "basicweb",
+    "links": {
+      "view": "https://travelstate.epizy.com/",
+      "code": "https://github.com/Mrsiburaj/travelstate"
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Bakery-System Website PHP",
+    "desc": "Bakery product ordered in web system is basically made for providing the customers an anytime and anywhere service for ordering bakery product.",
+    "image": "Bakery",
+    "category": "basicweb",
+    "links": {
+      "view": "https://mummyskitchen.netlify.app/",
+      "code": "https://github.com/Mrsiburaj/Ecommerce-Website"
+    }
+  },
+  {
+    "name": "Flipkart PHP",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+   "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  }
+]
