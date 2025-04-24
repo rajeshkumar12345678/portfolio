@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Sibu Raj";
+            document.title = "Portfolio | Rajesh Kumar";
             $("#favicon").attr("href", "assets/images/hero.jpeg");
         }
         else {
